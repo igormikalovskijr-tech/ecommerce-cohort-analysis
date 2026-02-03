@@ -111,16 +111,4 @@ A key focus of this project is the comparison of two analytical states.
 - Introduce rolling or comparative cohort analysis
 - Automate incremental ingestion using scheduled jobs
 
----
-
-## Technology Stack
-
-- Databricks SQL
-- Delta Lake
-- Databricks Dashboards
-- GitHub for version control
-
----
-
-## Repository Structure
 
